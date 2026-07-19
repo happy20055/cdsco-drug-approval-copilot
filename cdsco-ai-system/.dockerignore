@@ -1,0 +1,10 @@
+Tesseract-OCR/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.vscode/
+data/raw/*
+data/reports/*
+.agents/
+.tempmediaStorage/
